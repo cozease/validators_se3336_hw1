@@ -30,13 +30,13 @@ Resources
 
 .. raw:: html
 
-   <!-- Backup documentation URL :  https://yozachar.github.io/pyvalidators/ -->
+   <!-- Backup documentation URL :  https://nandgator.github.io/pyvalidators/ -->
 
 .. raw:: html
 
    <!-- Original documentation URL :  https://python-validators.github.io/validators/ -->
 
--  `Documentation <https://yozachar.github.io/pyvalidators>`__
+-  `Documentation <https://nandgator.github.io/pyvalidators>`__
 -  `Bugtracker <https://github.com/python-validators/validators/issues>`__
 -  `Security <https://github.com/python-validators/validators/blob/master/SECURITY.md>`__
 -  `Code <https://github.com/python-validators/validators/>`__
@@ -63,8 +63,8 @@ Resources
    :target: https://github.com/python-validators/validators/actions/workflows/pycqa.yaml
 .. |SAST| image:: https://github.com/python-validators/validators/actions/workflows/sast.yaml/badge.svg
    :target: https://github.com/python-validators/validators/actions/workflows/sast.yaml
-.. |Docs| image:: https://github.com/yozachar/pyvalidators/actions/workflows/pages/pages-build-deployment/badge.svg
-   :target: https://github.com/yozachar/pyvalidators/actions/workflows/pages/pages-build-deployment
+.. |Docs| image:: https://github.com/nandgator/pyvalidators/actions/workflows/pages/pages-build-deployment/badge.svg
+   :target: https://github.com/nandgator/pyvalidators/actions/workflows/pages/pages-build-deployment
 .. |Version| image:: https://img.shields.io/pypi/v/validators?logo=pypi&logoColor=white&label=version&color=blue
    :target: https://pypi.python.org/pypi/validators/
 .. |Downloads| image:: https://img.shields.io/pypi/dm/validators?logo=pypi&logoColor=white&color=blue

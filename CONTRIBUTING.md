@@ -42,7 +42,7 @@ $ . ./.venv/bin/activate
 # generate documentation
 $ python package/export TYPE # where TYPE is any of `doc`, `man` or `web`.
 
-# doc - generates docs found here: https://yozachar.github.io/pyvalidators
+# doc - generates docs found here: https://nandgator.github.io/pyvalidators
 # man - generates sphinx based manpages
 # web - generates sphinx based web docs
 ```
@@ -83,7 +83,7 @@ $ python -m http.server -d docs/_build/web
 ### Versioned documentation
 
 1. To preview versioned docs, run `mike serve` (`mike` is a dev dependency).
-2. Then (look at <https://yozachar.github.io/pyvalidators/stable/>)
+2. Then (look at <https://nandgator.github.io/pyvalidators/stable/>)
     - to publish stable docs run `mike deploy -p -u VERSION stable` after checking out to a stable tag name like `0.28.3` (note: document `VERSION = 0.29 if tag_name == 0.29.1`).
     - to publish bleeding-edge docs run `mike deploy -p -u dev master` after checking out to the `master` branch.
 3. This will deploy docs to the `gh-pages` branch (see: <https://github.com/python-validators/validators/tree/gh-pages/>)
